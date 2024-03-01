@@ -5,6 +5,9 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
@@ -29,9 +32,9 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=960</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Read the paper here]]></description>
 										<content:encoded><![CDATA[
-<p><a href="/wp-content/uploads/2024/02/rspb20232466f01-scaled.jpg"><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-961" src="/wp-content/uploads/2024/02/rspb20232466f01-212x300.jpg" alt="" width="212" height="300" srcset="/wp-content/uploads/2024/02/rspb20232466f01-212x300.jpg 212w, /wp-content/uploads/2024/02/rspb20232466f01-722x1024.jpg 722w, /wp-content/uploads/2024/02/rspb20232466f01-768x1089.jpg 768w, /wp-content/uploads/2024/02/rspb20232466f01-1083x1536.jpg 1083w, /wp-content/uploads/2024/02/rspb20232466f01-1444x2048.jpg 1444w, /wp-content/uploads/2024/02/rspb20232466f01-1170x1659.jpg 1170w, /wp-content/uploads/2024/02/rspb20232466f01-scaled.jpg 1805w" sizes="(max-width: 212px) 100vw, 212px" /></a></p>
+<p><a href="/wp-content/uploads/2024/02/rspb20232466f01-scaled.jpg"><img fetchpriority="high" decoding="async" data-attachment-id="961" data-permalink="/new-paper-out-on-conflict-reduction-in-multicellular-organisms/rspb20232466f01/" data-orig-file="/wp-content/uploads/2024/02/rspb20232466f01-scaled.jpg" data-orig-size="1805,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="rspb20232466f01" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2024/02/rspb20232466f01-212x300.jpg" data-large-file="/wp-content/uploads/2024/02/rspb20232466f01-722x1024.jpg" class="alignnone size-medium wp-image-961" src="/wp-content/uploads/2024/02/rspb20232466f01-212x300.jpg" alt="" width="212" height="300" srcset="/wp-content/uploads/2024/02/rspb20232466f01-212x300.jpg 212w, /wp-content/uploads/2024/02/rspb20232466f01-722x1024.jpg 722w, /wp-content/uploads/2024/02/rspb20232466f01-768x1089.jpg 768w, /wp-content/uploads/2024/02/rspb20232466f01-1083x1536.jpg 1083w, /wp-content/uploads/2024/02/rspb20232466f01-1444x2048.jpg 1444w, /wp-content/uploads/2024/02/rspb20232466f01-1170x1659.jpg 1170w, /wp-content/uploads/2024/02/rspb20232466f01-scaled.jpg 1805w" sizes="(max-width: 212px) 100vw, 212px" /></a></p>
 <p>Read the paper <a href="/wp-content/uploads/2024/02/Howe-et-al.-2024-Conflict-reducing-innovations-in-development-enabl.pdf">here</a></p>
 
 
@@ -52,11 +55,11 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=897</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Link to the paper]]></description>
 										<content:encoded><![CDATA[
 
 
-<p><a href="wp-content/uploads/2023/08/DSC_0101-scaled.jpeg"><img decoding="async" class="alignnone  wp-image-898" src="wp-content/uploads/2023/08/DSC_0101-300x201.jpeg" alt="" width="549" height="368" srcset="/wp-content/uploads/2023/08/DSC_0101-300x201.jpeg 300w, /wp-content/uploads/2023/08/DSC_0101-1024x685.jpeg 1024w, /wp-content/uploads/2023/08/DSC_0101-768x514.jpeg 768w, /wp-content/uploads/2023/08/DSC_0101-1536x1028.jpeg 1536w, /wp-content/uploads/2023/08/DSC_0101-2048x1371.jpeg 2048w, /wp-content/uploads/2023/08/DSC_0101-1170x783.jpeg 1170w" sizes="(max-width: 549px) 100vw, 549px" /></a></p>
+<p><a href="wp-content/uploads/2023/08/DSC_0101-scaled.jpeg"><img decoding="async" data-attachment-id="898" data-permalink="/new-paper-out-on-ostrich-sex-chromosomes/dsc_0101/" data-orig-file="/wp-content/uploads/2023/08/DSC_0101-scaled.jpeg" data-orig-size="2560,1714" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;10&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D80&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1259506714&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;50&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.003125&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="DSC_0101" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2023/08/DSC_0101-300x201.jpeg" data-large-file="/wp-content/uploads/2023/08/DSC_0101-1024x685.jpeg" class="alignnone  wp-image-898" src="wp-content/uploads/2023/08/DSC_0101-300x201.jpeg" alt="" width="549" height="368" srcset="/wp-content/uploads/2023/08/DSC_0101-300x201.jpeg 300w, /wp-content/uploads/2023/08/DSC_0101-1024x685.jpeg 1024w, /wp-content/uploads/2023/08/DSC_0101-768x514.jpeg 768w, /wp-content/uploads/2023/08/DSC_0101-1536x1028.jpeg 1536w, /wp-content/uploads/2023/08/DSC_0101-2048x1371.jpeg 2048w, /wp-content/uploads/2023/08/DSC_0101-1170x783.jpeg 1170w" sizes="(max-width: 549px) 100vw, 549px" /></a></p>
 <p><a href="/wp-content/uploads/2023/08/Yazdi-et-al_2023_The-evolutionary-maintenance-of-ancient-recombining-sex-chromosomes-in-the.pdf">Link to the paper</a></p>
 ]]></content:encoded>
 					
@@ -75,11 +78,11 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=893</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[To the paper]]></description>
 										<content:encoded><![CDATA[
 
 
-<p><a href="wp-content/uploads/2023/08/20180227-DSC03785-scaled.jpeg"><img decoding="async" class="wp-image-894 alignnone" src="wp-content/uploads/2023/08/20180227-DSC03785-300x171.jpeg" alt="" width="427" height="243" srcset="/wp-content/uploads/2023/08/20180227-DSC03785-300x171.jpeg 300w, /wp-content/uploads/2023/08/20180227-DSC03785-1024x584.jpeg 1024w, /wp-content/uploads/2023/08/20180227-DSC03785-768x438.jpeg 768w, /wp-content/uploads/2023/08/20180227-DSC03785-1536x875.jpeg 1536w, /wp-content/uploads/2023/08/20180227-DSC03785-2048x1167.jpeg 2048w, /wp-content/uploads/2023/08/20180227-DSC03785-1170x667.jpeg 1170w" sizes="(max-width: 427px) 100vw, 427px" /></a></p>
+<p><a href="wp-content/uploads/2023/08/20180227-DSC03785-scaled.jpeg"><img decoding="async" data-attachment-id="894" data-permalink="/new-paper-out-on-the-evolution-of-live-birth-in-reptiles/20180227-dsc03785/" data-orig-file="/wp-content/uploads/2023/08/20180227-DSC03785-scaled.jpeg" data-orig-size="2560,1459" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;6.3&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-7RM2&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1519707349&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;460&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20180227-DSC03785" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2023/08/20180227-DSC03785-300x171.jpeg" data-large-file="/wp-content/uploads/2023/08/20180227-DSC03785-1024x584.jpeg" class="wp-image-894 alignnone" src="wp-content/uploads/2023/08/20180227-DSC03785-300x171.jpeg" alt="" width="427" height="243" srcset="/wp-content/uploads/2023/08/20180227-DSC03785-300x171.jpeg 300w, /wp-content/uploads/2023/08/20180227-DSC03785-1024x584.jpeg 1024w, /wp-content/uploads/2023/08/20180227-DSC03785-768x438.jpeg 768w, /wp-content/uploads/2023/08/20180227-DSC03785-1536x875.jpeg 1536w, /wp-content/uploads/2023/08/20180227-DSC03785-2048x1167.jpeg 2048w, /wp-content/uploads/2023/08/20180227-DSC03785-1170x667.jpeg 1170w" sizes="(max-width: 427px) 100vw, 427px" /></a></p>
 <p><a href="/wp-content/uploads/2023/08/Pettersen-et-al_2023_Maternal-behavioral-thermoregulation-facilitated-evolutionary-transitions-from.pdf">To the paper</a></p>
 ]]></content:encoded>
 					
@@ -98,7 +101,7 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=887</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[New Scientist piece on insect-microbes symbioses P1 Radio report on insect-microbes symbioses]]></description>
 										<content:encoded><![CDATA[
 
 
@@ -121,10 +124,10 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=877</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Symbiotic partnerships with bacteria have provided insects with key nutrients missing in their diets. This has enabled them to exploit novel food resources, which in some cases this has fuelled exceptional species diversification such as in weevils, whereas in others...<br /><a class="read-more-button" href="/new-paper-out-insect-microbe-symbiosis/">Read more</a>]]></description>
 										<content:encoded><![CDATA[
 <p>Symbiotic partnerships with bacteria have provided insects with key nutrients missing in their diets. This has enabled them to exploit novel food resources, which in some cases this has fuelled exceptional species diversification such as in weevils, whereas in others it has suppressed diversification.</p>
-<p><a href="wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-scaled.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-881" src="wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-240x300.jpg" alt="" width="240" height="300" srcset="/wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-240x300.jpg 240w, /wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-819x1024.jpg 819w, /wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-768x960.jpg 768w, /wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-1229x1536.jpg 1229w, /wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-scaled.jpg 2048w" sizes="(max-width: 240px) 100vw, 240px" /></a></p>
+<p><a href="wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-scaled.jpg"><img loading="lazy" decoding="async" data-attachment-id="881" data-permalink="/new-paper-out-insect-microbe-symbiosis/coversuggestion3_gleb-lucky-egmuw2z2pco-unsplash-2/" data-orig-file="/wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-scaled.jpg" data-orig-size="2048,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-240x300.jpg" data-large-file="/wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-819x1024.jpg" class="alignnone size-medium wp-image-881" src="wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-240x300.jpg" alt="" width="240" height="300" srcset="/wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-240x300.jpg 240w, /wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-819x1024.jpg 819w, /wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-768x960.jpg 768w, /wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-1229x1536.jpg 1229w, /wp-content/uploads/2023/06/Coversuggestion3_gleb-lucky-EGmUW2z2pCo-unsplash-1-scaled.jpg 2048w" sizes="(max-width: 240px) 100vw, 240px" /></a></p>
 <h6>Photo by Gleb Lucky</h6>
 
 
@@ -147,13 +150,13 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=872</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Ever wondered why offspring feed on their parents poo (in ostriches)? We did and here is what we found out.]]></description>
 										<content:encoded><![CDATA[
 
 
 
 
-<p><a href="wp-content/uploads/2023/06/20160930-DSC02549-scaled.jpeg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-874" src="wp-content/uploads/2023/06/20160930-DSC02549-300x244.jpeg" alt="" width="300" height="244" srcset="/wp-content/uploads/2023/06/20160930-DSC02549-300x244.jpeg 300w, /wp-content/uploads/2023/06/20160930-DSC02549-1024x834.jpeg 1024w, /wp-content/uploads/2023/06/20160930-DSC02549-768x625.jpeg 768w, /wp-content/uploads/2023/06/20160930-DSC02549-1536x1251.jpeg 1536w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2023/06/20160930-DSC02549-scaled.jpeg"><img loading="lazy" decoding="async" data-attachment-id="874" data-permalink="/new-paper-out-on-coprophagy-and-the-microbiome/20160930-dsc02549/" data-orig-file="/wp-content/uploads/2023/06/20160930-DSC02549-scaled.jpeg" data-orig-size="2560,2085" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;6.3&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-7RM2&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1475229337&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;420&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20160930-DSC02549" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2023/06/20160930-DSC02549-300x244.jpeg" data-large-file="/wp-content/uploads/2023/06/20160930-DSC02549-1024x834.jpeg" class="alignnone size-medium wp-image-874" src="wp-content/uploads/2023/06/20160930-DSC02549-300x244.jpeg" alt="" width="300" height="244" srcset="/wp-content/uploads/2023/06/20160930-DSC02549-300x244.jpeg 300w, /wp-content/uploads/2023/06/20160930-DSC02549-1024x834.jpeg 1024w, /wp-content/uploads/2023/06/20160930-DSC02549-768x625.jpeg 768w, /wp-content/uploads/2023/06/20160930-DSC02549-1536x1251.jpeg 1536w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Ever wondered why offspring feed on their parents poo (in ostriches)? We did and <a href="/wp-content/uploads/2023/06/Videvall-et-al_2023_Coprophagy-rapidly-matures-juvenile-gut-microbiota-in-a-precocial-bird.pdf">here</a> is what we found out.</p>
 
 
@@ -174,10 +177,10 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=848</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[A few years ago we started a new project to try and understand why some lineages evolve to be multicellular while others are unicellular using green algae. This is the first paper from the project that lays some important foundations...<br /><a class="read-more-button" href="/new-paper-out-on-the-evolution-of-multicellularity/">Read more</a>]]></description>
 										<content:encoded><![CDATA[
 <p>A few years ago we started a new project to try and understand why some lineages evolve to be multicellular while others are unicellular using green algae. This is the <a href="/wp-content/uploads/2023/05/s41559-023-02044-6.pdf">first paper</a> from the project that lays some important foundations for future work. This was a team effort, but in particular, Maria was instrumental in bringing this to fruition. </p>
-<p><a href="wp-content/uploads/2023/05/algae_NEE.jpeg"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-849" src="wp-content/uploads/2023/05/algae_NEE.jpeg" alt="" width="278" height="181" /></a></p>
+<p><a href="wp-content/uploads/2023/05/algae_NEE.jpeg"><img loading="lazy" decoding="async" data-attachment-id="849" data-permalink="/new-paper-out-on-the-evolution-of-multicellularity/algae_nee/" data-orig-file="/wp-content/uploads/2023/05/algae_NEE.jpeg" data-orig-size="278,181" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="algae_NEE" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2023/05/algae_NEE.jpeg" data-large-file="/wp-content/uploads/2023/05/algae_NEE.jpeg" class="alignnone size-full wp-image-849" src="wp-content/uploads/2023/05/algae_NEE.jpeg" alt="" width="278" height="181" /></a></p>
 <p><a href="https://www.nature.com/articles/s41559-023-02044-6">https://www.nature.com/articles/s41559-023-02044-6</a></p>
 <p> </p>
 ]]></content:encoded>
@@ -197,10 +200,13 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=845</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[We are organising a 1-day symposium on how evolutionary biology can help address applied issues. Please come and join us &#8211; open to everyone!]]></description>
+			<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/Users/charlie/MEEL Dropbox/Charlie Cornwallis/Work/Github/Group_website/app/public/wp-content/plugins/google-document-embedder/gviewer.php</b> on line <b>230</b><br />
+							<content:encoded><![CDATA[
 <p>We are organising a 1-day symposium on how evolutionary biology can help address applied issues. Please come and join us &#8211; open to everyone!</p>
-<p>[gview file=&#8221;wp-content/uploads/2023/05/Symposium_poster.pdf&#8221;]</p>
+<iframe src="//docs.google.com/viewer?url=wp-content%2Fuploads%2F2023%2F05%2FSymposium_poster.pdf&hl=en_GB&embedded=true" class="gde-frame" style="width:100%; height:500px; border: none;" scrolling="no"></iframe>
+<p class="gde-text"><a href="wp-content/uploads/2023/05/Symposium_poster.pdf" class="gde-link">Download (PDF, Unknown)</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/symposium-30th-may-what-can-evolutionary-biology-contribute-to-real-world-problems/feed/</wfw:commentRss>
@@ -218,10 +224,10 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=839</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Congratulations to Qinyang for reaching the halfway point in his PhD and defending his midterm thesis. Many thanks to Emma Hammarlund for a great discussion, which will be very valuable in guiding future progress.]]></description>
 										<content:encoded><![CDATA[
 <p>Congratulations to Qinyang for reaching the halfway point in his PhD and defending his midterm thesis. Many thanks to Emma Hammarlund for a great discussion, which will be very valuable in guiding future progress.</p>
-<p><a href="wp-content/uploads/2023/05/IMG_8341-scaled.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-841" src="wp-content/uploads/2023/05/IMG_8341-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2023/05/IMG_8341-300x225.jpg 300w, /wp-content/uploads/2023/05/IMG_8341-1024x768.jpg 1024w, /wp-content/uploads/2023/05/IMG_8341-768x576.jpg 768w, /wp-content/uploads/2023/05/IMG_8341-1536x1152.jpg 1536w, /wp-content/uploads/2023/05/IMG_8341-2048x1536.jpg 2048w, /wp-content/uploads/2023/05/IMG_8341-1170x878.jpg 1170w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2023/05/IMG_8341-scaled.jpg"><img loading="lazy" decoding="async" data-attachment-id="841" data-permalink="/qinyang-successfully-defends-his-midterm-report/img_8341-2/" data-orig-file="/wp-content/uploads/2023/05/IMG_8341-scaled.jpg" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 11 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1681986754&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.25&quot;,&quot;iso&quot;:&quot;125&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_8341" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2023/05/IMG_8341-300x225.jpg" data-large-file="/wp-content/uploads/2023/05/IMG_8341-1024x768.jpg" class="alignnone size-medium wp-image-841" src="wp-content/uploads/2023/05/IMG_8341-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2023/05/IMG_8341-300x225.jpg 300w, /wp-content/uploads/2023/05/IMG_8341-1024x768.jpg 1024w, /wp-content/uploads/2023/05/IMG_8341-768x576.jpg 768w, /wp-content/uploads/2023/05/IMG_8341-1536x1152.jpg 1536w, /wp-content/uploads/2023/05/IMG_8341-2048x1536.jpg 2048w, /wp-content/uploads/2023/05/IMG_8341-1170x878.jpg 1170w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/qinyang-successfully-defends-his-midterm-report/feed/</wfw:commentRss>
@@ -257,7 +263,7 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=837</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[We are pleased to announce that, together with Tobias Uller, we have launched a new MSc program in Evolutionary Biology at Lund University. If you&#8217;re interested please see https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIO-EVBI for more details.]]></description>
 										<content:encoded><![CDATA[
 <p>We are pleased to announce that, together with Tobias Uller, we have launched a new MSc program in Evolutionary Biology at Lund University. If you&#8217;re interested please see <a href="https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIO-EVBI">https://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIO-EVBI</a> for more details.</p>
 ]]></content:encoded>
@@ -277,7 +283,7 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=835</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Mads was awarded an ERC starting grant to study the evolution of thermal tolerance in ostriches. We wish him the best of luck with starting his own group at Aarhus University.]]></description>
 										<content:encoded><![CDATA[
 <p>Mads was awarded an ERC starting grant to study the evolution of thermal tolerance in ostriches. We wish him the best of luck with starting his own group at Aarhus University.</p>
 ]]></content:encoded>
@@ -297,9 +303,9 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=830</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Very please to have Jana join our group who will do a postdoc on evolvability of green algae]]></description>
 										<content:encoded><![CDATA[
-<p><a href="wp-content/uploads/2022/09/jana.webp"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-815" src="wp-content/uploads/2022/09/jana.webp" alt="" width="300" height="300" srcset="/wp-content/uploads/2022/09/jana.webp 300w, /wp-content/uploads/2022/09/jana-150x150.webp 150w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2022/09/jana.webp"><img loading="lazy" decoding="async" data-attachment-id="815" data-permalink="/people/jana/" data-orig-file="/wp-content/uploads/2022/09/jana.webp" data-orig-size="300,300" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="jana" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2022/09/jana.webp" data-large-file="/wp-content/uploads/2022/09/jana.webp" class="alignnone size-full wp-image-815" src="wp-content/uploads/2022/09/jana.webp" alt="" width="300" height="300" srcset="/wp-content/uploads/2022/09/jana.webp 300w, /wp-content/uploads/2022/09/jana-150x150.webp 150w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Very please to have <a href="/?page_id=6">Jana</a> join our group who will do a postdoc on evolvability of green algae</p>
 ]]></content:encoded>
 					
@@ -318,10 +324,10 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=825</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Congratulations Mads and the rest of team. A wonderful and really interesting experience putting this all together. Read about it here  ]]></description>
 										<content:encoded><![CDATA[
 <p>Congratulations Mads and the rest of team. A wonderful and really interesting experience putting this all together. Read about it <a href="wp-content/uploads/2022/09/Schou-et-al_2022_Evolutionary-trade-offs-between-heat-and-cold-tolerance-limit-responses-to.pdf">here</a></p>
-<p><a href="wp-content/uploads/2022/09/DSC_0576-scaled.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-821" src="wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-300x283.jpg" alt="" width="300" height="283" srcset="/wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-300x283.jpg 300w, /wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-1024x967.jpg 1024w, /wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-768x725.jpg 768w, /wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-1170x1104.jpg 1170w, /wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824.jpg 1267w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2022/09/DSC_0576-scaled.jpg"><img loading="lazy" decoding="async" data-attachment-id="821" data-permalink="/news/dsc_0576/" data-orig-file="/wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824.jpg" data-orig-size="1267,1196" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D80&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1382869248&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;135&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.002&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="DSC_0576" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-300x283.jpg" data-large-file="/wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-1024x967.jpg" class="alignnone size-medium wp-image-821" src="wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-300x283.jpg" alt="" width="300" height="283" srcset="/wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-300x283.jpg 300w, /wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-1024x967.jpg 1024w, /wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-768x725.jpg 768w, /wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824-1170x1104.jpg 1170w, /wp-content/uploads/2022/09/DSC_0576-scaled-e1663841409824.jpg 1267w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p> </p>
 ]]></content:encoded>
 					
@@ -340,10 +346,13 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=792</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
+					<description><![CDATA[Great work Emily on putting this piece together that discusses how immunity may hold some of the secrets to long-life.  ]]></description>
+			<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/Users/charlie/MEEL Dropbox/Charlie Cornwallis/Work/Github/Group_website/app/public/wp-content/plugins/google-document-embedder/gviewer.php</b> on line <b>230</b><br />
+							<content:encoded><![CDATA[
 <p>Great work Emily on putting this piece together that discusses how immunity may hold some of the secrets to long-life.</p>
-<p>[gview file=&#8221;wp-content/uploads/2022/04/1-s2.0-S0168952522000580-main.pdf&#8221;]</p>
+<iframe src="//docs.google.com/viewer?url=wp-content%2Fuploads%2F2022%2F04%2F1-s2.0-S0168952522000580-main.pdf&hl=en_GB&embedded=true" class="gde-frame" style="width:100%; height:500px; border: none;" scrolling="no"></iframe>
+<p class="gde-text"><a href="wp-content/uploads/2022/04/1-s2.0-S0168952522000580-main.pdf" class="gde-link">Download (PDF, Unknown)</a></p>
 <p> </p>
 ]]></content:encoded>
 					
@@ -362,10 +371,10 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=780</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[After a bit of a break the Biology Lund Annual Meeting (BLAM) took place in real life. Flash talks (3 minutes) are a great way to get discussions going and it was great to see Qinyang presenting his work.  ]]></description>
 										<content:encoded><![CDATA[
 <p>After a bit of a break the Biology Lund Annual Meeting (BLAM) took place in real life. Flash talks (3 minutes) are a great way to get discussions going and it was great to see Qinyang presenting his work.</p>
-<p><a href="wp-content/uploads/2022/04/IMG_4025-1-scaled.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-798" src="wp-content/uploads/2022/04/IMG_4025-1-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2022/04/IMG_4025-1-300x200.jpg 300w, /wp-content/uploads/2022/04/IMG_4025-1-1024x683.jpg 1024w, /wp-content/uploads/2022/04/IMG_4025-1-768x512.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" /></a> </p>
+<p><a href="wp-content/uploads/2022/04/IMG_4025-1-scaled.jpg"><img loading="lazy" decoding="async" data-attachment-id="798" data-permalink="/qinyang-gives-flash-talk-at-blam/img_4025-2/" data-orig-file="/wp-content/uploads/2022/04/IMG_4025-1-scaled.jpg" data-orig-size="2560,1707" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 11 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1649341656&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_4025" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2022/04/IMG_4025-1-300x200.jpg" data-large-file="/wp-content/uploads/2022/04/IMG_4025-1-1024x683.jpg" class="alignnone size-medium wp-image-798" src="wp-content/uploads/2022/04/IMG_4025-1-300x200.jpg" alt="" width="300" height="200" srcset="/wp-content/uploads/2022/04/IMG_4025-1-300x200.jpg 300w, /wp-content/uploads/2022/04/IMG_4025-1-1024x683.jpg 1024w, /wp-content/uploads/2022/04/IMG_4025-1-768x512.jpg 768w" sizes="(max-width: 300px) 100vw, 300px" /></a> </p>
 <p><a href="wp-content/uploads/2022/04/IMG_4025-2.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-789" src="wp-content/uploads/2022/04/IMG_4025-2.jpg" alt="" width="1" height="1" /></a></p>
 ]]></content:encoded>
 					
@@ -384,10 +393,10 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=794</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[We are very sad to see Philip leave after being a crucial member of the group for 4 years, but are very glad that he moves on to an exciting new position in Oulu. Congratulations!]]></description>
 										<content:encoded><![CDATA[
 <p>We are very sad to see Philip leave after being a crucial member of the group for 4 years, but are very glad that he moves on to an exciting new position in Oulu. Congratulations!</p>
-<p><a href="wp-content/uploads/2022/04/IMG_3644-1-scaled.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-808" src="wp-content/uploads/2022/04/IMG_3644-1-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2022/04/IMG_3644-1-300x225.jpg 300w, /wp-content/uploads/2022/04/IMG_3644-1-1024x768.jpg 1024w, /wp-content/uploads/2022/04/IMG_3644-1-768x576.jpg 768w, /wp-content/uploads/2022/04/IMG_3644-1-1536x1152.jpg 1536w, /wp-content/uploads/2022/04/IMG_3644-1-2048x1536.jpg 2048w, /wp-content/uploads/2022/04/IMG_3644-1-1170x878.jpg 1170w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2022/04/IMG_3644-1-scaled.jpg"><img loading="lazy" decoding="async" data-attachment-id="808" data-permalink="/congratulations-to-philip-to-getting-a-new-position-in-oulu/img_3644/" data-orig-file="/wp-content/uploads/2022/04/IMG_3644-1-scaled.jpg" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 11 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1645048765&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.25&quot;,&quot;iso&quot;:&quot;1000&quot;,&quot;shutter_speed&quot;:&quot;0.058823529411765&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_3644" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2022/04/IMG_3644-1-300x225.jpg" data-large-file="/wp-content/uploads/2022/04/IMG_3644-1-1024x768.jpg" class="alignnone size-medium wp-image-808" src="wp-content/uploads/2022/04/IMG_3644-1-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2022/04/IMG_3644-1-300x225.jpg 300w, /wp-content/uploads/2022/04/IMG_3644-1-1024x768.jpg 1024w, /wp-content/uploads/2022/04/IMG_3644-1-768x576.jpg 768w, /wp-content/uploads/2022/04/IMG_3644-1-1536x1152.jpg 1536w, /wp-content/uploads/2022/04/IMG_3644-1-2048x1536.jpg 2048w, /wp-content/uploads/2022/04/IMG_3644-1-1170x878.jpg 1170w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p><a href="wp-content/uploads/2022/04/IMG_3644.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-783" src="wp-content/uploads/2022/04/IMG_3644.jpg" alt="" width="1" height="1" /></a></p>
 ]]></content:encoded>
 					
@@ -406,10 +415,10 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=777</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[We are very pleased to have Homa Papoli Yazdi join the group who will work on the comparative genomics of multicellularity]]></description>
 										<content:encoded><![CDATA[
 <p>We are very pleased to have Homa Papoli Yazdi join the group who will work on the comparative genomics of multicellularity</p>
-<p><a href="wp-content/uploads/2022/03/Homa.jpeg"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-768" src="wp-content/uploads/2022/03/Homa.jpeg" alt="" width="200" height="200" srcset="/wp-content/uploads/2022/03/Homa.jpeg 200w, /wp-content/uploads/2022/03/Homa-150x150.jpeg 150w" sizes="(max-width: 200px) 100vw, 200px" /></a></p>
+<p><a href="wp-content/uploads/2022/03/Homa.jpeg"><img loading="lazy" decoding="async" data-attachment-id="768" data-permalink="/people/homa/" data-orig-file="/wp-content/uploads/2022/03/Homa.jpeg" data-orig-size="200,200" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Homa" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2022/03/Homa.jpeg" data-large-file="/wp-content/uploads/2022/03/Homa.jpeg" class="alignnone size-full wp-image-768" src="wp-content/uploads/2022/03/Homa.jpeg" alt="" width="200" height="200" srcset="/wp-content/uploads/2022/03/Homa.jpeg 200w, /wp-content/uploads/2022/03/Homa-150x150.jpeg 150w" sizes="(max-width: 200px) 100vw, 200px" /></a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/welcome-homa/feed/</wfw:commentRss>
@@ -427,10 +436,10 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=760</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Here&#8217;s the full paper Photo by Doug Greenberg  ]]></description>
 										<content:encoded><![CDATA[
 <p><a href="wp-content/uploads/2021/08/pike_2021_why_dont_all_animals_avoid_inbreeding.pdf">Here&#8217;s the full paper</a></p>
-<p><a href="wp-content/uploads/2021/08/51062938038_750754f531_c-e1628611905954.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-761" src="wp-content/uploads/2021/08/51062938038_750754f531_c-e1628611905954-300x208.jpg" alt="" width="300" height="208" srcset="/wp-content/uploads/2021/08/51062938038_750754f531_c-e1628611905954-300x208.jpg 300w, /wp-content/uploads/2021/08/51062938038_750754f531_c-e1628611905954.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2021/08/51062938038_750754f531_c-e1628611905954.jpg"><img loading="lazy" decoding="async" data-attachment-id="761" data-permalink="/new-paper-out-on-why-some-animals-arent-adverse-to-mating-with-their-relatives/51062938038_750754f531_c/" data-orig-file="/wp-content/uploads/2021/08/51062938038_750754f531_c-e1628611905954.jpg" data-orig-size="740,512" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="51062938038_750754f531_c" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2021/08/51062938038_750754f531_c-e1628611905954-300x208.jpg" data-large-file="/wp-content/uploads/2021/08/51062938038_750754f531_c-e1628611905954.jpg" class="alignnone size-medium wp-image-761" src="wp-content/uploads/2021/08/51062938038_750754f531_c-e1628611905954-300x208.jpg" alt="" width="300" height="208" srcset="/wp-content/uploads/2021/08/51062938038_750754f531_c-e1628611905954-300x208.jpg 300w, /wp-content/uploads/2021/08/51062938038_750754f531_c-e1628611905954.jpg 740w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Photo by Doug Greenberg</p>
 <p> </p>
 ]]></content:encoded>
@@ -450,7 +459,7 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=751</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Read a popular summary here and the paper here Picture by Giles San Martin]]></description>
 										<content:encoded><![CDATA[
 <p>Read a popular summary <a href="https://elifesciences.org/digests/66649/family-matters">here</a> and the paper <a href="https://elifesciences.org/articles/66649">here</a></p>
 <p><img decoding="async" src="wp-content/uploads/2021/07/Giles_San_Martin2-scaled.jpg" /></p>
@@ -472,7 +481,7 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=747</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[We are very grateful to the Crafoord Foundation for generous funding to support our work on the molecular basis of multicellularity in green algae.]]></description>
 										<content:encoded><![CDATA[
 <p>We are very grateful to the Crafoord Foundation for generous funding to support our work on the molecular basis of multicellularity in green algae.</p>
 <p><img decoding="async" src="wp-content/uploads/2021/07/IMG_1349.jpg" /></p>
@@ -493,7 +502,7 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=745</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Qinyang gave a talk on the ecological niches occupied by unicellular and multicellular green algae across Swedish lakes and won first prize at iBLAM.]]></description>
 										<content:encoded><![CDATA[
 <p>Qinyang gave a talk on the ecological niches occupied by unicellular and multicellular green algae across Swedish lakes and won first prize at iBLAM.</p>
 ]]></content:encoded>
@@ -513,17 +522,17 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=743</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[So pleased and proud to see Julian climb this mountain and reach the top in style. Many many congratulations!!!!! Nailing the oak to the book! Modern style defence Thanks to co-supervisor Mads for all the support along the way Cheers!]]></description>
 										<content:encoded><![CDATA[
 <p>So pleased and proud to see Julian climb this mountain and reach the top in style. Many many congratulations!!!!!</p>
 <p>Nailing the oak to the book!</p>
-<p><a href="wp-content/uploads/2021/04/227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c.jpeg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-736" src="wp-content/uploads/2021/04/227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c-225x300.jpeg" alt="" width="225" height="300" srcset="/wp-content/uploads/2021/04/227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c-225x300.jpeg 225w, /wp-content/uploads/2021/04/227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c.jpeg 768w" sizes="(max-width: 225px) 100vw, 225px" /></a></p>
+<p><a href="wp-content/uploads/2021/04/227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c.jpeg"><img loading="lazy" decoding="async" data-attachment-id="736" data-permalink="/congratulations-to-julian-on-becoming-dr/227823b4-de39-4c0f-a5ba-8979ae24063d_1_105_c/" data-orig-file="/wp-content/uploads/2021/04/227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c.jpeg" data-orig-size="768,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 11 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1615989850&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.25&quot;,&quot;iso&quot;:&quot;64&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2021/04/227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c-225x300.jpeg" data-large-file="/wp-content/uploads/2021/04/227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c.jpeg" class="alignnone size-medium wp-image-736" src="wp-content/uploads/2021/04/227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c-225x300.jpeg" alt="" width="225" height="300" srcset="/wp-content/uploads/2021/04/227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c-225x300.jpeg 225w, /wp-content/uploads/2021/04/227823B4-DE39-4C0F-A5BA-8979AE24063D_1_105_c.jpeg 768w" sizes="(max-width: 225px) 100vw, 225px" /></a></p>
 <p>Modern style defence</p>
-<p><a href="wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c.jpeg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-733" src="wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c-300x225.jpeg" alt="" width="300" height="225" srcset="/wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c-300x225.jpeg 300w, /wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c-768x576.jpeg 768w, /wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c.jpeg"><img loading="lazy" decoding="async" data-attachment-id="733" data-permalink="/congratulations-to-julian-on-becoming-dr/7c55d8a1-bda4-4b24-b9e0-2cd1ea9094e1_1_105_c/" data-orig-file="/wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c.jpeg" data-orig-size="1024,768" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 11 Pro&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1616146808&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.25&quot;,&quot;iso&quot;:&quot;80&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c-300x225.jpeg" data-large-file="/wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c.jpeg" class="alignnone size-medium wp-image-733" src="wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c-300x225.jpeg" alt="" width="300" height="225" srcset="/wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c-300x225.jpeg 300w, /wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c-768x576.jpeg 768w, /wp-content/uploads/2021/04/7C55D8A1-BDA4-4B24-B9E0-2CD1EA9094E1_1_105_c.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Thanks to co-supervisor Mads for all the support along the way</p>
-<p><a href="wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c.jpeg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-735" src="wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c-300x225.jpeg" alt="" width="300" height="225" srcset="/wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c-300x225.jpeg 300w, /wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c-768x576.jpeg 768w, /wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c.jpeg"><img loading="lazy" decoding="async" data-attachment-id="735" data-permalink="/congratulations-to-julian-on-becoming-dr/43a55713-04bf-4106-b84b-32229dd082c1_1_105_c/" data-orig-file="/wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c.jpeg" data-orig-size="1024,768" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="43A55713-04BF-4106-B84B-32229DD082C1_1_105_c" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c-300x225.jpeg" data-large-file="/wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c.jpeg" class="alignnone size-medium wp-image-735" src="wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c-300x225.jpeg" alt="" width="300" height="225" srcset="/wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c-300x225.jpeg 300w, /wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c-768x576.jpeg 768w, /wp-content/uploads/2021/04/43A55713-04BF-4106-B84B-32229DD082C1_1_105_c.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Cheers!</p>
-<p><a href="wp-content/uploads/2021/04/0F406747-3147-41D3-8856-86CE04735AC6_1_105_c.jpeg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-734" src="wp-content/uploads/2021/04/0F406747-3147-41D3-8856-86CE04735AC6_1_105_c-225x300.jpeg" alt="" width="225" height="300" srcset="/wp-content/uploads/2021/04/0F406747-3147-41D3-8856-86CE04735AC6_1_105_c-225x300.jpeg 225w, /wp-content/uploads/2021/04/0F406747-3147-41D3-8856-86CE04735AC6_1_105_c.jpeg 768w" sizes="(max-width: 225px) 100vw, 225px" /></a></p>
+<p><a href="wp-content/uploads/2021/04/0F406747-3147-41D3-8856-86CE04735AC6_1_105_c.jpeg"><img loading="lazy" decoding="async" data-attachment-id="734" data-permalink="/congratulations-to-julian-on-becoming-dr/0f406747-3147-41d3-8856-86ce04735ac6_1_105_c/" data-orig-file="/wp-content/uploads/2021/04/0F406747-3147-41D3-8856-86CE04735AC6_1_105_c.jpeg" data-orig-size="768,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="0F406747-3147-41D3-8856-86CE04735AC6_1_105_c" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2021/04/0F406747-3147-41D3-8856-86CE04735AC6_1_105_c-225x300.jpeg" data-large-file="/wp-content/uploads/2021/04/0F406747-3147-41D3-8856-86CE04735AC6_1_105_c.jpeg" class="alignnone size-medium wp-image-734" src="wp-content/uploads/2021/04/0F406747-3147-41D3-8856-86CE04735AC6_1_105_c-225x300.jpeg" alt="" width="225" height="300" srcset="/wp-content/uploads/2021/04/0F406747-3147-41D3-8856-86CE04735AC6_1_105_c-225x300.jpeg 225w, /wp-content/uploads/2021/04/0F406747-3147-41D3-8856-86CE04735AC6_1_105_c.jpeg 768w" sizes="(max-width: 225px) 100vw, 225px" /></a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/congratulations-to-julian-on-becoming-dr/feed/</wfw:commentRss>
@@ -541,10 +550,10 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=741</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Read the paper here, which was reported in the Times: Well done Philip, and very nice to be part of this Phil Trans issue on aging and sociality!]]></description>
 										<content:encoded><![CDATA[
 <p>Read the paper <a href="wp-content/uploads/2021/04/downing_2021_hard-working_helpers_contribute_to_long_breeder_lifespans_in_cooperative_birds.pdf">here</a>, which was reported in the Times:</p>
-<p><a href="wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c.jpeg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-737" src="wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c-300x225.jpeg" alt="" width="300" height="225" srcset="/wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c-300x225.jpeg 300w, /wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c-768x576.jpeg 768w, /wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c.jpeg"><img loading="lazy" decoding="async" data-attachment-id="737" data-permalink="/new-paper-out-on-how-the-secret-to-long-life-is-having-hard-working-helpers/fa513436-6cd2-4f45-a9a1-46d76958210a_1_105_c/" data-orig-file="/wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c.jpeg" data-orig-size="1024,768" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c-300x225.jpeg" data-large-file="/wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c.jpeg" class="alignnone size-medium wp-image-737" src="wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c-300x225.jpeg" alt="" width="300" height="225" srcset="/wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c-300x225.jpeg 300w, /wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c-768x576.jpeg 768w, /wp-content/uploads/2021/04/FA513436-6CD2-4F45-A9A1-46D76958210A_1_105_c.jpeg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p>Well done Philip, and very nice to be part of this Phil Trans issue on aging and sociality!</p>
 ]]></content:encoded>
 					
@@ -563,7 +572,7 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=728</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Congratulation Mads, fantastic effort in bringing this very nice piece of work to fruition! Read all about it here and how it was made]]></description>
 										<content:encoded><![CDATA[
 <p>Congratulation Mads, fantastic effort in bringing this very nice piece of work to fruition! Read all about it <a href="wp-content/uploads/2021/02/schou_2021_extreme_temperatures_compromise_male_and_female_fertility_in_a_large_desert_bird.pdf">here</a> and how it was <a href="https://natureecoevocommunity.nature.com/posts/the-largest-bird-on-earth-suffers-in-the-hot-and-cold?channel_id=521-behind-the-paper">made</a></p>
 ]]></content:encoded>
@@ -583,10 +592,10 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=714</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[It&#8217;s great to have a new addition to the group, Qinyang Li, who starts a PhD on the evolution of multicellularity  ]]></description>
 										<content:encoded><![CDATA[
 <p>It&#8217;s great to have a new addition to the group, <a href="/?page_id=687">Qinyang Li,</a> who starts a PhD on the evolution of multicellularity</p>
-<p><a href="wp-content/uploads/2020/10/qinyang-1000x563-1-e1603052366976.jpg"><img loading="lazy" decoding="async" class="alignnone  wp-image-693" src="wp-content/uploads/2020/10/qinyang-1000x563-1-e1603052366976-300x246.jpg" alt="" width="251" height="206" srcset="/wp-content/uploads/2020/10/qinyang-1000x563-1-e1603052366976-300x246.jpg 300w, /wp-content/uploads/2020/10/qinyang-1000x563-1-e1603052366976.jpg 685w" sizes="(max-width: 251px) 100vw, 251px" /></a></p>
+<p><a href="wp-content/uploads/2020/10/qinyang-1000x563-1-e1603052366976.jpg"><img loading="lazy" decoding="async" data-attachment-id="693" data-permalink="/people/qinyang-1000x563/" data-orig-file="/wp-content/uploads/2020/10/qinyang-1000x563-1-e1603052366976.jpg" data-orig-size="685,562" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="qinyang-1000&#215;563" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2020/10/qinyang-1000x563-1-e1603052366976-300x246.jpg" data-large-file="/wp-content/uploads/2020/10/qinyang-1000x563-1-e1603052366976.jpg" class="alignnone  wp-image-693" src="wp-content/uploads/2020/10/qinyang-1000x563-1-e1603052366976-300x246.jpg" alt="" width="251" height="206" srcset="/wp-content/uploads/2020/10/qinyang-1000x563-1-e1603052366976-300x246.jpg 300w, /wp-content/uploads/2020/10/qinyang-1000x563-1-e1603052366976.jpg 685w" sizes="(max-width: 251px) 100vw, 251px" /></a></p>
 <p> </p>
 ]]></content:encoded>
 					
@@ -605,9 +614,9 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=709</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Link to the paper Video summary  ]]></description>
 										<content:encoded><![CDATA[
-<p><a href="wp-content/uploads/2020/10/20160930-DSC02451.jpg"><img loading="lazy" decoding="async" class="alignnone  wp-image-712" src="wp-content/uploads/2020/10/20160930-DSC02451-180x300.jpg" alt="" width="169" height="282" srcset="/wp-content/uploads/2020/10/20160930-DSC02451-180x300.jpg 180w, /wp-content/uploads/2020/10/20160930-DSC02451.jpg 363w" sizes="(max-width: 169px) 100vw, 169px" /></a><a href="wp-content/uploads/2020/10/20160930-DSC02430.jpg"><img loading="lazy" decoding="async" class="alignnone  wp-image-711" src="wp-content/uploads/2020/10/20160930-DSC02430-192x300.jpg" alt="" width="180" height="282" srcset="/wp-content/uploads/2020/10/20160930-DSC02430-192x300.jpg 192w, /wp-content/uploads/2020/10/20160930-DSC02430.jpg 426w" sizes="(max-width: 180px) 100vw, 180px" /></a><a href="wp-content/uploads/2020/10/20160928-DSC02358.jpg"><img loading="lazy" decoding="async" class="alignnone  wp-image-710" src="wp-content/uploads/2020/10/20160928-DSC02358-200x300.jpg" alt="" width="187" height="281" srcset="/wp-content/uploads/2020/10/20160928-DSC02358-200x300.jpg 200w, /wp-content/uploads/2020/10/20160928-DSC02358.jpg 667w" sizes="(max-width: 187px) 100vw, 187px" /></a></p>
+<p><a href="wp-content/uploads/2020/10/20160930-DSC02451.jpg"><img loading="lazy" decoding="async" data-attachment-id="712" data-permalink="/new-paper-out-about-the-establishment-of-microbiomes-and-death/20160930-dsc02451/" data-orig-file="/wp-content/uploads/2020/10/20160930-DSC02451.jpg" data-orig-size="363,604" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-7RM2&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1475226998&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;230&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.004&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20160930-DSC02451" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2020/10/20160930-DSC02451-180x300.jpg" data-large-file="/wp-content/uploads/2020/10/20160930-DSC02451.jpg" class="alignnone  wp-image-712" src="wp-content/uploads/2020/10/20160930-DSC02451-180x300.jpg" alt="" width="169" height="282" srcset="/wp-content/uploads/2020/10/20160930-DSC02451-180x300.jpg 180w, /wp-content/uploads/2020/10/20160930-DSC02451.jpg 363w" sizes="(max-width: 169px) 100vw, 169px" /></a><a href="wp-content/uploads/2020/10/20160930-DSC02430.jpg"><img loading="lazy" decoding="async" data-attachment-id="711" data-permalink="/new-paper-out-about-the-establishment-of-microbiomes-and-death/20160930-dsc02430/" data-orig-file="/wp-content/uploads/2020/10/20160930-DSC02430.jpg" data-orig-size="426,667" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5.6&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-7RM2&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1475226853&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;330&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.0025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20160930-DSC02430" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2020/10/20160930-DSC02430-192x300.jpg" data-large-file="/wp-content/uploads/2020/10/20160930-DSC02430.jpg" class="alignnone  wp-image-711" src="wp-content/uploads/2020/10/20160930-DSC02430-192x300.jpg" alt="" width="180" height="282" srcset="/wp-content/uploads/2020/10/20160930-DSC02430-192x300.jpg 192w, /wp-content/uploads/2020/10/20160930-DSC02430.jpg 426w" sizes="(max-width: 180px) 100vw, 180px" /></a><a href="wp-content/uploads/2020/10/20160928-DSC02358.jpg"><img loading="lazy" decoding="async" data-attachment-id="710" data-permalink="/new-paper-out-about-the-establishment-of-microbiomes-and-death/20160928-dsc02358/" data-orig-file="/wp-content/uploads/2020/10/20160928-DSC02358.jpg" data-orig-size="667,1000" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;9&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-7RM2&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1475050424&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;35&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="20160928-DSC02358" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2020/10/20160928-DSC02358-200x300.jpg" data-large-file="/wp-content/uploads/2020/10/20160928-DSC02358.jpg" class="alignnone  wp-image-710" src="wp-content/uploads/2020/10/20160928-DSC02358-200x300.jpg" alt="" width="187" height="281" srcset="/wp-content/uploads/2020/10/20160928-DSC02358-200x300.jpg 200w, /wp-content/uploads/2020/10/20160928-DSC02358.jpg 667w" sizes="(max-width: 187px) 100vw, 187px" /></a></p>
 <p><a href="https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00925-7">Link to the paper</a></p>
 <p><a href="https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00925-7">Video summary</a></p>
 <p> </p>
@@ -628,14 +637,14 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=675</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Well done Philip! Read the paper Read about the process]]></description>
 										<content:encoded><![CDATA[
 <p>Well done Philip!</p>
-<p><a href="wp-content/uploads/2020/03/images.jpg"><img loading="lazy" decoding="async" class="alignnone  wp-image-681" src="wp-content/uploads/2020/03/images.jpg" alt="" width="296" height="197" /></a></p>
+<p><a href="wp-content/uploads/2020/03/images.jpg"><img loading="lazy" decoding="async" data-attachment-id="681" data-permalink="/new-paper-on-the-importance-of-family-in-cooperative-breeders/images/" data-orig-file="/wp-content/uploads/2020/03/images.jpg" data-orig-size="275,183" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2020/03/images.jpg" data-large-file="/wp-content/uploads/2020/03/images.jpg" class="alignnone  wp-image-681" src="wp-content/uploads/2020/03/images.jpg" alt="" width="296" height="197" /></a></p>
 <p><a href="https://www.nature.com/articles/s41559-020-1113-x?proof=trueMay"><em>Read the paper</em> </a></p>
-<p><a href="wp-content/uploads/2020/03/41559_2020_1113_Fig1_HTML.png"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-682" src="wp-content/uploads/2020/03/41559_2020_1113_Fig1_HTML-300x204.png" alt="" width="300" height="204" srcset="/wp-content/uploads/2020/03/41559_2020_1113_Fig1_HTML-300x204.png 300w, /wp-content/uploads/2020/03/41559_2020_1113_Fig1_HTML.png 685w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2020/03/41559_2020_1113_Fig1_HTML.png"><img loading="lazy" decoding="async" data-attachment-id="682" data-permalink="/new-paper-on-the-importance-of-family-in-cooperative-breeders/41559_2020_1113_fig1_html/" data-orig-file="/wp-content/uploads/2020/03/41559_2020_1113_Fig1_HTML.png" data-orig-size="685,465" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="41559_2020_1113_Fig1_HTML" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2020/03/41559_2020_1113_Fig1_HTML-300x204.png" data-large-file="/wp-content/uploads/2020/03/41559_2020_1113_Fig1_HTML.png" class="alignnone size-medium wp-image-682" src="wp-content/uploads/2020/03/41559_2020_1113_Fig1_HTML-300x204.png" alt="" width="300" height="204" srcset="/wp-content/uploads/2020/03/41559_2020_1113_Fig1_HTML-300x204.png 300w, /wp-content/uploads/2020/03/41559_2020_1113_Fig1_HTML.png 685w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p><a href="https://natureecoevocommunity.nature.com/users/358908-philip-downing/posts/60831-what-cooperative-birds-tell-us-about-the-evolution-of-complex-groups-starting-conditions-matter"><em>Read about the process</em></a></p>
-<p><a href="wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557.jpeg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-680" src="wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-300x223.jpeg" alt="" width="300" height="223" srcset="/wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-300x223.jpeg 300w, /wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-768x572.jpeg 768w, /wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-1024x763.jpeg 1024w, /wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-1170x871.jpeg 1170w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557.jpeg"><img loading="lazy" decoding="async" data-attachment-id="680" data-permalink="/new-paper-on-the-importance-of-family-in-cooperative-breeders/7c6eb556-674c-45c9-bfb6-2ef4bee23557/" data-orig-file="/wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557.jpeg" data-orig-size="2808,2091" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="7c6eb556-674c-45c9-bfb6-2ef4bee23557" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-300x223.jpeg" data-large-file="/wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-1024x763.jpeg" class="alignnone size-medium wp-image-680" src="wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-300x223.jpeg" alt="" width="300" height="223" srcset="/wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-300x223.jpeg 300w, /wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-768x572.jpeg 768w, /wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-1024x763.jpeg 1024w, /wp-content/uploads/2020/03/7c6eb556-674c-45c9-bfb6-2ef4bee23557-1170x871.jpeg 1170w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/new-paper-on-the-importance-of-family-in-cooperative-breeders/feed/</wfw:commentRss>
@@ -653,11 +662,11 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=663</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Welldone Emily! https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2675]]></description>
 										<content:encoded><![CDATA[
 <p>Welldone Emily!</p>
 <p><a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2675">https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2675</a></p>
-<p><iframe loading="lazy" title="Immunförsvaret otillräckligt när klimatet förändras" width="734" height="413" src="https://www.youtube.com/embed/bQZqfAy8l0M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe loading="lazy" class="youtube-player" width="734" height="413" src="https://www.youtube.com/embed/bQZqfAy8l0M?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-GB&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/new-paper-out-on-how-the-climate-shapes-immune-systems/feed/</wfw:commentRss>
@@ -675,9 +684,12 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=656</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<p>We have a fully funded PhD position available to study multicellularity using a range of experimental, comparative and genomic techniques. <a href="https://lu.varbi.com/en/what:job/jobID:305670/type:job/where:4/apply:1">Apply here</a>[gview file=&#8221;wp-content/uploads/2019/12/PhD_Position_Multicellularity.pdf&#8221;]</p>
+					<description><![CDATA[We have a fully funded PhD position available to study multicellularity using a range of experimental, comparative and genomic techniques. Apply here]]></description>
+			<br />
+<b>Warning</b>:  Trying to access array offset on value of type int in <b>/Users/charlie/MEEL Dropbox/Charlie Cornwallis/Work/Github/Group_website/app/public/wp-content/plugins/google-document-embedder/gviewer.php</b> on line <b>230</b><br />
+							<content:encoded><![CDATA[
+<p>We have a fully funded PhD position available to study multicellularity using a range of experimental, comparative and genomic techniques. <a href="https://lu.varbi.com/en/what:job/jobID:305670/type:job/where:4/apply:1">Apply here</a><iframe src="//docs.google.com/viewer?url=wp-content%2Fuploads%2F2019%2F12%2FPhD_Position_Multicellularity.pdf&hl=en_GB&embedded=true" class="gde-frame" style="width:100%; height:500px; border: none;" scrolling="no"></iframe>
+<p class="gde-text"><a href="wp-content/uploads/2019/12/PhD_Position_Multicellularity.pdf" class="gde-link">Download (PDF, Unknown)</a></p></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/new-phd-position-available-to-study-multicellularity/feed/</wfw:commentRss>
@@ -695,7 +707,7 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=654</guid>
 
-					<description><![CDATA[]]></description>
+					<description><![CDATA[Congratulations to Mads for getting a project grant from the Carl Tryggers Foundations to study thermal tolerance and social complexity in ostriches]]></description>
 										<content:encoded><![CDATA[
 <p>Congratulations to Mads for getting a project grant from the Carl Tryggers Foundations to study thermal tolerance and social complexity in ostriches</p>
 ]]></content:encoded>
@@ -919,7 +931,7 @@
 
 					<description><![CDATA[We are very grateful to everyone at the Oudtshoorn research station for their help and support and making this another productive year]]></description>
 										<content:encoded><![CDATA[<p>We are very grateful to everyone at the Oudtshoorn research station for their help and support and making this another productive year</p>
-<p><a href="wp-content/uploads/2017/11/IMG_1715.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-538" src="wp-content/uploads/2017/11/IMG_1715-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2017/11/IMG_1715-300x225.jpg 300w, /wp-content/uploads/2017/11/IMG_1715-768x576.jpg 768w, /wp-content/uploads/2017/11/IMG_1715-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p><a href="wp-content/uploads/2017/11/IMG_1715.jpg"><img loading="lazy" decoding="async" data-attachment-id="538" data-permalink="/another-successful-field-season-in-south-africa/img_1715/" data-orig-file="/wp-content/uploads/2017/11/IMG_1715.jpg" data-orig-size="4032,3024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone 6s&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1508871336&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4.15&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.05&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_1715" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2017/11/IMG_1715-300x225.jpg" data-large-file="/wp-content/uploads/2017/11/IMG_1715-1024x768.jpg" class="alignnone size-medium wp-image-538" src="wp-content/uploads/2017/11/IMG_1715-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2017/11/IMG_1715-300x225.jpg 300w, /wp-content/uploads/2017/11/IMG_1715-768x576.jpg 768w, /wp-content/uploads/2017/11/IMG_1715-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/another-successful-field-season-in-south-africa/feed/</wfw:commentRss>
@@ -976,8 +988,8 @@
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/?p=515</guid>
 
-					<description><![CDATA[http://rstb.royalsocietypublishing.org/content/royptb/372/1719/20160094.full.pdf]]></description>
-										<content:encoded><![CDATA[<p>http://rstb.royalsocietypublishing.org/content/royptb/372/1719/20160094.full.pdf</p>
+					<description><![CDATA[Click to access 20160094.full.pdf]]></description>
+										<content:encoded><![CDATA[<p><a href="http://rstb.royalsocietypublishing.org/content/royptb/372/1719/20160094.full.pdf" target="_blank" rel="noopener noreferrer nofollow">Click to access 20160094.full.pdf</a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/nasty-or-nice-new-paper-on-virulence-of-human-pathogens/feed/</wfw:commentRss>
@@ -996,7 +1008,7 @@
 		<guid isPermaLink="false">/?p=426</guid>
 
 					<description><![CDATA[To the paper Behind the paper]]></description>
-										<content:encoded><![CDATA[<p><a href="wp-content/uploads/2017/03/s41559-016-0057-f1.jpg"><img loading="lazy" decoding="async" class="alignnone size-medium wp-image-427" src="wp-content/uploads/2017/03/s41559-016-0057-f1-300x202.jpg" alt="" width="300" height="202" srcset="/wp-content/uploads/2017/03/s41559-016-0057-f1-300x202.jpg 300w, /wp-content/uploads/2017/03/s41559-016-0057-f1-768x518.jpg 768w, /wp-content/uploads/2017/03/s41559-016-0057-f1.jpg 926w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+										<content:encoded><![CDATA[<p><a href="wp-content/uploads/2017/03/s41559-016-0057-f1.jpg"><img loading="lazy" decoding="async" data-attachment-id="427" data-permalink="/new-paper-out-on-cooperation-and-colonisation-of-harsh-environments/s41559-016-0057-f1/" data-orig-file="/wp-content/uploads/2017/03/s41559-016-0057-f1.jpg" data-orig-size="926,624" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="s41559-016-0057-f1" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2017/03/s41559-016-0057-f1-300x202.jpg" data-large-file="/wp-content/uploads/2017/03/s41559-016-0057-f1.jpg" class="alignnone size-medium wp-image-427" src="wp-content/uploads/2017/03/s41559-016-0057-f1-300x202.jpg" alt="" width="300" height="202" srcset="/wp-content/uploads/2017/03/s41559-016-0057-f1-300x202.jpg 300w, /wp-content/uploads/2017/03/s41559-016-0057-f1-768x518.jpg 768w, /wp-content/uploads/2017/03/s41559-016-0057-f1.jpg 926w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
 <p><a href="wp-content/uploads/2017/03/s41559-016-0057.pdf">To the paper</a></p>
 <p><a href="https://natureecoevocommunity.nature.com/users/27555-charlie-cornwallis/posts/14618-cooperation-in-the-face-of-adversity">Behind the paper</a></p>
 ]]></content:encoded>
@@ -1018,7 +1030,7 @@
 
 					<description><![CDATA[A very big welcome to Maria Svensson-Coelho who has just started a new researcher position to work on multicellularity in algae amongst other things.]]></description>
 										<content:encoded><![CDATA[<p>A very big welcome to Maria Svensson-Coelho who has just started a new researcher position to work on multicellularity in algae amongst other things.</p>
-<p><a href="wp-content/uploads/2017/03/Maria_Svensson-Coelho.png"><img loading="lazy" decoding="async" class="size-full wp-image-441 alignnone" src="wp-content/uploads/2017/03/Maria_Svensson-Coelho.png" alt="" width="180" height="180" srcset="/wp-content/uploads/2017/03/Maria_Svensson-Coelho.png 180w, /wp-content/uploads/2017/03/Maria_Svensson-Coelho-150x150.png 150w" sizes="(max-width: 180px) 100vw, 180px" /></a></p>
+<p><a href="wp-content/uploads/2017/03/Maria_Svensson-Coelho.png"><img loading="lazy" decoding="async" data-attachment-id="441" data-permalink="/welcome-to-maria/maria_svensson-coelho/" data-orig-file="/wp-content/uploads/2017/03/Maria_Svensson-Coelho.png" data-orig-size="180,180" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Maria_Svensson-Coelho" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2017/03/Maria_Svensson-Coelho.png" data-large-file="/wp-content/uploads/2017/03/Maria_Svensson-Coelho.png" class="size-full wp-image-441 alignnone" src="wp-content/uploads/2017/03/Maria_Svensson-Coelho.png" alt="" width="180" height="180" srcset="/wp-content/uploads/2017/03/Maria_Svensson-Coelho.png 180w, /wp-content/uploads/2017/03/Maria_Svensson-Coelho-150x150.png 150w" sizes="(max-width: 180px) 100vw, 180px" /></a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/welcome-to-maria/feed/</wfw:commentRss>
@@ -1057,7 +1069,7 @@
 
 					<description><![CDATA[A very big welcome to Markus Lindh who has just started a new post-doc to work on multicellularity in algae.]]></description>
 										<content:encoded><![CDATA[<p>A very big welcome to Markus Lindh who has just started a new post-doc to work on multicellularity in algae.</p>
-<p><a href="wp-content/uploads/2017/03/Markus_Lindh.png"><img loading="lazy" decoding="async" class="alignnone size-full wp-image-424" src="wp-content/uploads/2017/03/Markus_Lindh.png" alt="" width="180" height="180" srcset="/wp-content/uploads/2017/03/Markus_Lindh.png 180w, /wp-content/uploads/2017/03/Markus_Lindh-150x150.png 150w" sizes="(max-width: 180px) 100vw, 180px" /></a></p>
+<p><a href="wp-content/uploads/2017/03/Markus_Lindh.png"><img loading="lazy" decoding="async" data-attachment-id="424" data-permalink="/welcome-to-markus/markus_lindh/" data-orig-file="/wp-content/uploads/2017/03/Markus_Lindh.png" data-orig-size="180,180" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Markus_Lindh" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2017/03/Markus_Lindh.png" data-large-file="/wp-content/uploads/2017/03/Markus_Lindh.png" class="alignnone size-full wp-image-424" src="wp-content/uploads/2017/03/Markus_Lindh.png" alt="" width="180" height="180" srcset="/wp-content/uploads/2017/03/Markus_Lindh.png 180w, /wp-content/uploads/2017/03/Markus_Lindh-150x150.png 150w" sizes="(max-width: 180px) 100vw, 180px" /></a></p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/welcome-to-markus/feed/</wfw:commentRss>
@@ -1196,7 +1208,7 @@
 		<guid isPermaLink="false">/?p=75</guid>
 
 					<description><![CDATA[Check out our new paper on retrovirus evolution in PNAS: http://www.pnas.org/content/112/2/464.abstract]]></description>
-										<content:encoded><![CDATA[<p><a title="pnas" href="http://www.pnas.org/content/112/2/464"><img loading="lazy" decoding="async" class=" size-full wp-image-190 alignleft" src="wp-content/uploads/2015/03/pnas-2015.gif" alt="pnas 2015" width="133" height="178" /></a>Check out our new paper on retrovirus evolution in PNAS: http://www.pnas.org/content/112/2/464.abstract</p>
+										<content:encoded><![CDATA[<p><a title="pnas" href="http://www.pnas.org/content/112/2/464"><img loading="lazy" decoding="async" data-attachment-id="190" data-permalink="/new-paper-out-in-pnas/pnas-2015/" data-orig-file="/wp-content/uploads/2015/03/pnas-2015.gif" data-orig-size="133,178" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="pnas 2015" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2015/03/pnas-2015-300x300.gif" data-large-file="/wp-content/uploads/2015/03/pnas-2015-1024x1024.gif" class=" size-full wp-image-190 alignleft" src="wp-content/uploads/2015/03/pnas-2015.gif" alt="pnas 2015" width="133" height="178" /></a>Check out our new paper on retrovirus evolution in PNAS: http://www.pnas.org/content/112/2/464.abstract</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/new-paper-out-in-pnas/feed/</wfw:commentRss>
@@ -1215,7 +1227,7 @@
 		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Our new paper on host gene expression responses to experimental infection with malaria is out in MBE: http://mbe.oxfordjournals.org/content/early/2015/01/29/molbev.msv016.abstract]]></description>
-										<content:encoded><![CDATA[<p><a title="mbe" href="http://mbe.oxfordjournals.org/content/early/2015/01/29/molbev.msv016.abstract"><img loading="lazy" decoding="async" class=" size-full wp-image-194 alignleft" src="wp-content/uploads/2015/03/MBE.gif" alt="MBE" width="133" height="175" /></a>Our new paper on host gene expression responses to experimental infection with malaria is out in MBE: http://mbe.oxfordjournals.org/content/early/2015/01/29/molbev.msv016.abstract</p>
+										<content:encoded><![CDATA[<p><a title="mbe" href="http://mbe.oxfordjournals.org/content/early/2015/01/29/molbev.msv016.abstract"><img loading="lazy" decoding="async" data-attachment-id="194" data-permalink="/hello-world/mbe/" data-orig-file="/wp-content/uploads/2015/03/MBE.gif" data-orig-size="133,175" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="MBE" data-image-description="" data-image-caption="" data-medium-file="/wp-content/uploads/2015/03/MBE-300x300.gif" data-large-file="/wp-content/uploads/2015/03/MBE-1024x1024.gif" class=" size-full wp-image-194 alignleft" src="wp-content/uploads/2015/03/MBE.gif" alt="MBE" width="133" height="175" /></a>Our new paper on host gene expression responses to experimental infection with malaria is out in MBE: http://mbe.oxfordjournals.org/content/early/2015/01/29/molbev.msv016.abstract</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
