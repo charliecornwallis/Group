@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Welcome Homa!	</title>
-	<atom:link href="/welcome-homa/feed/" rel="self" type="application/rss+xml" />
-	<link>/welcome-homa/</link>
+	<atom:link href="http://localhost/welcome-homa/feed/?simply_static_page=59835" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Research on Cooperation, Sex, Disease and Evolutionary Innovations</description>
 	<lastBuildDate>Fri, 22 Apr 2022 09:40:07 +0000</lastBuildDate>
 	<sy:updatePeriod>

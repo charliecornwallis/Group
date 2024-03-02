@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Welcome to Mads!	</title>
-	<atom:link href="/welcome-to-mads/feed/" rel="self" type="application/rss+xml" />
-	<link>/welcome-to-mads/</link>
+	<atom:link href="http://localhost/welcome-to-mads/feed/?simply_static_page=59876" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Research on Cooperation, Sex, Disease and Evolutionary Innovations</description>
 	<lastBuildDate>Fri, 24 Nov 2017 13:29:09 +0000</lastBuildDate>
 	<sy:updatePeriod>

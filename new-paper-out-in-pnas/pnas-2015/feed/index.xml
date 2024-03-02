@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: pnas 2015	</title>
-	<atom:link href="/new-paper-out-in-pnas/pnas-2015/feed/" rel="self" type="application/rss+xml" />
-	<link>/new-paper-out-in-pnas/pnas-2015/</link>
+	<atom:link href="http://localhost/new-paper-out-in-pnas/pnas-2015/feed/?simply_static_page=60051" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Research on Cooperation, Sex, Disease and Evolutionary Innovations</description>
 	<lastBuildDate>Sun, 05 Apr 2015 17:48:17 +0000</lastBuildDate>
 	<sy:updatePeriod>

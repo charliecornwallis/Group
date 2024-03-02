@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Maria_Svensson-Coelho	</title>
-	<atom:link href="/welcome-to-maria/maria_svensson-coelho/feed/" rel="self" type="application/rss+xml" />
-	<link>/welcome-to-maria/maria_svensson-coelho/</link>
+	<atom:link href="http://localhost/welcome-to-maria/maria_svensson-coelho/feed/?simply_static_page=60046" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Research on Cooperation, Sex, Disease and Evolutionary Innovations</description>
 	<lastBuildDate>Wed, 08 Mar 2017 17:54:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
