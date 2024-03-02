@@ -314,7 +314,7 @@ body {
   filter: alpha(opacity=100);                             
 }
 body .pattern {
-  background: left top repeat url(./images/pattern.png);
+  background: left top repeat url(https://charliecornwallis.github.io/Group//wp-content/themes/happenstance/images/pattern.png);
   height: 100%;
   opacity: 0.5;
   filter: alpha(opacity=50);
@@ -1005,7 +1005,7 @@ body .menu-box ul .menu-item-has-children .sub-menu a:after {
   width: 100%;                  
 }
 .entry-headline {
-  background: left 50% repeat-x url(./images/pattern-headline.png);
+  background: left 50% repeat-x url(https://charliecornwallis.github.io/Group//wp-content/themes/happenstance/images/pattern-headline.png);
   color: black;
   font-size: 27px;
   line-height: 100%;
@@ -1635,7 +1635,7 @@ body .menu-box ul .menu-item-has-children .sub-menu a:after {
   width: 100%;             
 }
 #content .blog-widget .blog-headline {
-  background: left 50% repeat-x url(./images/pattern-headline.png);
+  background: left 50% repeat-x url(https://charliecornwallis.github.io/Group//wp-content/themes/happenstance/images/pattern-headline.png);
   color: #000000;
   font-family: Oswald, Arial, Helvetica, sans-serif; 
   font-size: 27px;
@@ -1675,7 +1675,7 @@ body .menu-box ul .menu-item-has-children .sub-menu a:after {
   width: 100%;             
 }
 .sidebar-widget .sidebar-headline {
-  background: left 50% repeat-x url(./images/pattern-sidebar.png);
+  background: left 50% repeat-x url(https://charliecornwallis.github.io/Group//wp-content/themes/happenstance/images/pattern-sidebar.png);
   color: #333333;
   font-family: Oswald, Arial, Helvetica, sans-serif; 
   font-size: 19px;
@@ -1781,7 +1781,7 @@ body .menu-box ul .menu-item-has-children .sub-menu a:after {
   width: 100%;           
 }
 #footer .footer-widget .footer-headline {
-  background: left 50% repeat-x url(./images/pattern-footer.png);
+  background: left 50% repeat-x url(https://charliecornwallis.github.io/Group//wp-content/themes/happenstance/images/pattern-footer.png);
   color: white;
   font-family: Oswald, Arial, Helvetica, sans-serif;
   font-size: 19px;
