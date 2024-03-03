@@ -12,7 +12,7 @@
 
 <channel>
 	<title>Cornwallis Group</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=2523" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=27" rel="self" type="application/rss+xml" />
 	<link>https://charliecornwallis.github.io/Group/</link>
 	<description>Research on Cooperation, Sex, Disease and Evolutionary Innovations</description>
 	<lastBuildDate>Sun, 03 Mar 2024 08:50:13 +0000</lastBuildDate>
