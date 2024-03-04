@@ -1,2 +1,2 @@
 # Cornwallis Group Website
-This is for the hosting of a static website for the Cornwallis research group
+This is for the hosting a static website for the Cornwallis research group
