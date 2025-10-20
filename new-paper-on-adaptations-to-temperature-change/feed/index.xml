@@ -11,7 +11,7 @@
 <channel>
 	<title>
 	Comments on: New paper on adaptations to temperature change	</title>
-	<atom:link href="http://localhost/new-paper-on-adaptations-to-temperature-change/feed/?simply_static_page=6365" rel="self" type="application/rss+xml" />
+	<atom:link href="https://charliecornwallis.github.io/Group/new-paper-on-adaptations-to-temperature-change/feed/" rel="self" type="application/rss+xml" />
 	<link>https://charliecornwallis.github.io/Group/new-paper-on-adaptations-to-temperature-change/</link>
 	<description>Research on Cooperation, Sex, Disease and Evolutionary Innovations</description>
 	<lastBuildDate>Wed, 06 Nov 2024 07:30:40 +0000</lastBuildDate>
@@ -19,6 +19,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 </channel>
 </rss>

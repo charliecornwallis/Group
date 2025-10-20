@@ -11,14 +11,14 @@
 <channel>
 	<title>
 	Comments on: Publications	</title>
-	<atom:link href="http://localhost/publications/feed/?simply_static_page=6330" rel="self" type="application/rss+xml" />
+	<atom:link href="https://charliecornwallis.github.io/Group/publications/feed/" rel="self" type="application/rss+xml" />
 	<link>https://charliecornwallis.github.io/Group/</link>
 	<description>Research on Cooperation, Sex, Disease and Evolutionary Innovations</description>
-	<lastBuildDate>Sun, 19 Oct 2025 17:47:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 20 Oct 2025 09:25:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.3</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 </channel>
 </rss>
